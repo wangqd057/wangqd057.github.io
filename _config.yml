@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Qiandong Wang"
 title_separator          : "-"
-name                     : &name "Qiandong Wang"
+name                     : &name ""
 description              : &description "Qiandong Wang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://wangqd057.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Qiandong Wang 王乾东"
   pronouns         : # example: "she/her"  
-  bio              : "Qiandong Wang earned his doctoral degree from Academy for Advanced Interdisciplinary Studies, Peking University, and currently serves as an Associate Professor in Faculty of Psychology at Beijing Normal University. His research centers on the cognitive and neural mechanisms underlying face processing, with particular emphasis on elucidating its characteristics across typical and atypical development, as well as investigating the neuropsychological foundations of mental disorders including depression and anxiety."
+  bio              : "Associate Professor \n His research centers on the cognitive and neural mechanisms underlying face processing, with particular emphasis on elucidating its characteristics across typical and atypical development, as well as investigating the neuropsychological foundations of mental disorders including depression and anxiety."
   location         : "Beijing, China"
   employer         : "Beijing Normal University"
   uri              : # URL
