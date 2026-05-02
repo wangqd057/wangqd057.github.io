@@ -23,10 +23,10 @@ repository               : "wangqd057/wangqd057.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Qiandong Wang"
+  avatar           : "profile.jpg"
+  name             : "Qiandong Wang 王乾东"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Qiandong Wang earned his doctoral degree from Academy for Advanced Interdisciplinary Studies, Peking University, and currently serves as an Associate Professor in Faculty of Psychology at Beijing Normal University. His research centers on the cognitive and neural mechanisms underlying face processing, with particular emphasis on elucidating its characteristics across typical and atypical development, as well as investigating the neuropsychological foundations of mental disorders including depression and anxiety."
   location         : "Beijing, China"
   employer         : "Beijing Normal University"
   uri              : # URL
