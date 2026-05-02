@@ -43,9 +43,9 @@ Skills
 
 Publications
 ======
-* Wang, Q., Su, W., Zeng, L., Lin, X.*, & Yi, L.* (2026). Biased mental face representations of autistic children in the general population. Molecular autism, 17(1), 17. https://doi.org/10.1186/s13229-026-00709-0
-* Liu, S.#, Wang, Q.#, Feng, A., Ying, J., & Han, Z. R. (2026). Longitudinal links between parenting and children's psychological functioning: The role of parent-child interbrain synchrony. Child development, aacag058. Advance online publication. https://doi.org/10.1093/chidev/aacag058
-
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Talks
 ======
