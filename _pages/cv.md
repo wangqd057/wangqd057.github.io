@@ -36,7 +36,7 @@ Skills
 
 Publications
 ======
-* Wang, Q., Su, W., Zeng, L., Lin, X.*, & Yi, L.* (2026). Biased mental face representations of autistic children in the general population. Molecular autism, 17(1), 17. https://doi.org/10.1186/s13229-026-00709-0
+* Wang, Q., Su, W., Zeng, L., Lin, X.\*, & Yi, L.\* (2026). Biased mental face representations of autistic children in the general population. Molecular autism, 17(1), 17. https://doi.org/10.1186/s13229-026-00709-0
 * Liu, S.#, Wang, Q.#, Feng, A., Ying, J., & Han, Z. R. (2026). Longitudinal links between parenting and children's psychological functioning: The role of parent-child interbrain synchrony. Child development, aacag058. Advance online publication. https://doi.org/10.1093/chidev/aacag058
 * Su, W.#, Lin, X.#, Liu, W., Lam, T. K., Li, P.*, & Wang, Q.* (2026). The impact of depression and social anxiety on eye orientation and disengagement in individuals with and without depression. Journal of Psychiatric Research, 192, 325–331. https://doi.org/10.1016/j.jpsychires.2025.10.077
 * Wei, H.#, Wang, Q.#, Su, W., Li, P., Yuan, K., Deng, J., Zhang, Z., Zwanzger, P., Lin, X.*, & Lu, L.* (2026). Modulation of emotional memory in depression: Concurrent fMRI-guided rTMS over OFA during sad face viewing. Brain Stimulation, 19(1), 102996. https://doi.org/10.1016/j.brs.2025.102996
