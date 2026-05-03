@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Integrated Life Sciences (Psychology), Peking University, September 2015 – July 2020
+* Ph.D. in Integrated Life Sciences (Psychology), Peking University, September 2015 – July 2020
 * M.S. in Basic Psychology, Zhejiang Normal University,
 September 2012 – June 2015
 * B.S. in Psychology, Zhejiang Normal University,
@@ -21,8 +21,14 @@ Work experience
 ======
 * Associate Professor, Faculty of Psychology, Beijing Normal University, Sep 2025 – Present
 * Lecturer, Faculty of Psychology, Beijing Normal University, Oct 2022 – Sep 2025
-* Faculty Postdoc, Faculty of Psychology, Beijing Normal University, Oct 2020 – Oct 2022
-  
+* Faculty Postdoc, Faculty of Psychology, Beijing Normal University, Oct 2020 – Oct 2022
+
+Research Interests
+======
+* Integrating neuropsychological methods (eye-tracking and neuroimaging) with artificial intelligence to characterize the features, developmental trajectory, and underlying mechanisms of face processing in autistic children, and to develop novel diagnostic aids for autism.
+* Elucidating the role of social visual attention in the development of psychopathology, including anxiety and depression.
+* Revealing the phenomenon of stigma and its psychological underpinnings in individuals with mental disorders and neurodevelopmental disorders.
+
 Skills
 ======
 * Eye-tracking
